@@ -22,8 +22,12 @@ Me remonto al típico chiste de tu profe cuando se te olvidaban las unidades; "B
 
 ![otro meme](https://media.giphy.com/media/ck5JRWob7folZ7d97I/giphy.gif)
 
-**Comunicación efectiva**:Lorem ipsum
+**Comunicación efectiva**: Va muy de la mano con el punto anterior. Un código sin limpieza, con muchas variables desordenadas o innecesarias, está muy lejos de representar una *comunicación efectiva*. Debemos buscar ser breves y eficaces. Recordemos que la gente que leerá nuestros reportes, solicitudes o proyectos, tienen *muchísimas cosas que leer*, no hagamos su tarea más laboriosa y busquemos **ponerle nombre a nuestros ensamientos**.
 
-**Compañerismo**: Lorem ipsum
+**Compañerismo**: Los proyectos OpenSource han tomado muchísima fuerza en los últimos años, gracias a que la comunidad tecnológica ha sabido acoplarse a este nuevo esquema de trabajo. Ejemplos como la primer foto de un agujero negro, se gestionan día a día en diferentes partes del mundo, y no podrían ser posibles si alguno de sus miembros no estuviera dispuesto a acompañar y enseñar a otras personas.
 
-**Curiosidad y paciencia**: Lorem ipsum
+![mas memes](https://media.giphy.com/media/iePXHMydJVL8Mqfs44/giphy.gif)
+
+**Curiosidad y paciencia**: Para mi las 2 habilidades más destacadas de un desarrollador. En un ambiente donde existen muchísimas herramientas, es importante tomarse el tiempo de conocerlas. No hay que volverse experto de la noche a la mañana, o saberlo todo en este mundo. Lo importante es saber que esa herramienta existe y que algún día pueda serme de ayuda. Necesitamos curiosidad para ahondar en grandes problemas y paciencia para resolverlos.
+
+Hasta aquí la primera entrada del blog. Gracias por llegar hasta acá! No te olvides de acariciar un 🐕 o darle un cumplido a alguien por la calle 💃 **Pequeños gestos favorecen grandes acciones** 🚀
