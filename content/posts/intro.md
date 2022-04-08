@@ -11,10 +11,4 @@ El caso de un desarrollador de software no es la excepción. Encontramos al que 
 
 - **La puntualidad, la responsabilidad y el respeto**: Son valores fundamentales para cualquier profesional, demuestran tu educación y el valor que le das a lo que estás haciendo. Como desarrolladores, vivimos para que la gente utilice de manera recurrente las herramientas que construimos. Esa gente tiene sus propias responsabilidades, y esperan que nuestro ambiente les haga esa tarea mucho más sencilla. Si el programa está teniendo bugs o no funciona correctamente, nuestro trabajo es **corregirlo a la brevedad**, meternos de lleno a resolver el problema en *tiempo y forma* y evitar excusas al no tener el trabajo listo. Claro que es completamente válido no saber de algún tema, somos personas y no podemos saberlo todo en esta vida. Lo que para mi no es válido es ser incongruente con las habilidades que se tienen, por respeto propio y al de los compañeros. Si no sabemos utilizar alguna tecnología en específico y nuestro *jefe* nos pide realizar cierta tarea, es mejor ser honesto. *"Jefe, la verdad nunca he usado esta tecnología, pero me esforzaré para dominarla. Me gustaría contar con su apoyo en caso de tener algún problema"* resulta mejor que *"Claro jefe, yo lo hago"* (aunque no se tenga idea de lo que nos están pidiendo.) De esta manera somos **responsables y respetuosos** respondiendo de manera **profesional** al llamado y se nos permite ser puntuales al entregar resultados.
 
-- **Limpieza en el código**: Lorem ipsum
 
-- **Comunicación efectiva**:Lorem ipsum
-
-- **Compañerismo**: Lorem ipsum
-
-- **Curiosidad y paciencia**: Lorem ipsum
