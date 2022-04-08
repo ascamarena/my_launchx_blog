@@ -14,6 +14,7 @@ Recuerdo que cuando nos preparábamos para esa certificación a los **Mission Co
 A partir de ahí comenzamos a prepararnos como **DataRangers**⚡ con la "cherpa" <a href="https://github.com/FernandaOchoa" target="_blank">Fer</a>. Ella nos acompañó durante nuestro aprendizaje rumbo a la certificación <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" target="_blank">AZ-900</a>. A través de risas, práctica y regaños, **muchos logramos la certificación** y nos motivaron a continuar.
 
 > "Confíen en el proceso"
+>
 >                           Sherpa Fer.
 
 Ahora estamos empezando el tercer curso y el momento de conocer el datacenter en Querétaro se acerca❗
