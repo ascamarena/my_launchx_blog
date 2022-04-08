@@ -22,4 +22,5 @@ Me gustaría contar con su apoyo en caso de tener algún problema"* resulta mejo
 **limpieza en el código**: ¿Cuántas veces hemos sufrido en la clase de matemáticas al ver tanto símbolo y letras exytrañas? Al leer código pasa lo mismo. Suele ser muy molesto y cansado tratar de entender qué quiere decir una variable llamada "x". No hay problema si hay algún comentario de por medio que nos especifique **¿qué es realmente esa "x"?** pero, ¿y si no la hubiera? 
 
 Me remonto al típico chiste de tu profe cuando se te olvidaban las unidades; "Bueno, pero ¿qué son?¿chicles, cacahuates, pistaches?. En ese momento nos sonaba absurdo creer que si estábamos sumando manzanas, el resultado se daría en pistaches.
+
 ![otro meme](https://media.giphy.com/media/ck5JRWob7folZ7d97I/giphy.gif)
