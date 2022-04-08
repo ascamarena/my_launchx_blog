@@ -1,6 +1,6 @@
 ---
 title: "La cultura de un desarrollador de Software"
-date: 2022-04-22
+date: 2022-04-07
 description: '¿Te has preguntado cómo es la cultura en el ambiente del desarrollo web? Aquí te explico cuáles son mis expectativas y lo que considero buenos hábitos al desarrollar software'
 ---
 
