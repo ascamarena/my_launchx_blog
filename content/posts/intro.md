@@ -18,4 +18,5 @@ El caso de un desarrollador de software no es la excepción. Encontramos al que 
 
 4. **Compañerismo**:
 
+5. **Curiosidad y paciencia**:
 
