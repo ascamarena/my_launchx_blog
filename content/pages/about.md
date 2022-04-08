@@ -5,17 +5,14 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quién soy? 
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Mis padres me pusieron Alexis (Un derivado de Alejandro y que significa *protector*), aunque respondo a muchísimos nombres más. 
+Soy una persona reservada, pero social. Una de mis actividades favoritas es conocer gente y uno de mis lugares favoritos para hacerlo es el Metro de la Ciudad de México. 
+Mi deporte favorito es el soccer y el equipo de mis amores es el campeonísimo 🔴⚫🦊, aunque disfruto de las caminatas por ríos y montañas, además del frontennis con amigos.
+Los animales que más me gustan son el zorro (por sus sonidos), el tiburón (por su elegancia) y el jaguar (por su belleza).
+Me gustan mucho los datos ya que pueden aportar información muy valiosa y que se esconde cual tesoro pirata!
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Tengo dos noticias; una buena y una mala. La buena, a mi moneda le puse Phillip. La mala, es una moneda hembra.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
 
