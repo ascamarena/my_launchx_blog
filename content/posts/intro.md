@@ -21,3 +21,9 @@ Me remonto al típico chiste de tu profe cuando se te olvidaban las unidades; "B
 
 
 ![otro meme](https://media.giphy.com/media/ck5JRWob7folZ7d97I/giphy.gif)
+
+**Comunicación efectiva**:Lorem ipsum
+
+**Compañerismo**: Lorem ipsum
+
+**Curiosidad y paciencia**: Lorem ipsum
