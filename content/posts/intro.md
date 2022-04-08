@@ -23,4 +23,5 @@ Me gustaría contar con su apoyo en caso de tener algún problema"* resulta mejo
 
 Me remonto al típico chiste de tu profe cuando se te olvidaban las unidades; "Bueno, pero ¿qué son?¿chicles, cacahuates, pistaches?. En ese momento nos sonaba absurdo creer que si estábamos sumando manzanas, el resultado se daría en pistaches.
 
+
 ![otro meme](https://media.giphy.com/media/ck5JRWob7folZ7d97I/giphy.gif)
