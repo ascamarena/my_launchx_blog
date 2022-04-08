@@ -15,8 +15,6 @@ Esa gente tiene sus propias responsabilidades, y esperan que nuestro ambiente le
 
 Claro que es completamente válido no saber de algún tema, somos personas y no podemos saberlo todo en esta vida. Lo que para mi no es válido es ser incongruente con las habilidades que se tienen, por respeto propio y al de los compañeros. 
 
-Si no sabemos utilizar alguna tecnología en específico y nuestro *jefe* nos pide realizar cierta tarea, es mejor ser honesto. *"Jefe, la verdad nunca he usado esta tecnología, pero me esforzaré para dominarla. Me gustaría contar con su apoyo en caso de tener algún problema"* resulta mejor que *"Claro jefe, yo lo hago"* (aunque no se tenga idea de lo que nos están pidiendo.) De esta manera somos **responsables y respetuosos** respondiendo de manera **profesional** al llamado y se nos permite ser puntuales al entregar resultados.
-
 **limpieza en el código**: ¿Cuántas veces hemos sufrido en la clase de matemáticas al ver tanto símbolo y letras exytrañas? Al leer código pasa lo mismo. Suele ser muy molesto y cansado tratar de entender qué quiere decir una variable llamada "x". No hay problema si hay algún comentario de por medio que nos especifique **¿qué es realmente esa "x"?** pero, ¿y si no la hubiera? 
 
 Me remonto al típico chiste de tu profe cuando se te olvidaban las unidades; "Bueno, pero ¿qué son?¿chicles, cacahuates, pistaches?. En ese momento nos sonaba absurdo creer que si estábamos sumando manzanas, el resultado se daría en pistaches.
