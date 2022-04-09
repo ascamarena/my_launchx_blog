@@ -15,7 +15,7 @@ A partir de ahí comenzamos a prepararnos como **DataRangers**⚡ con la "cherpa
 
 > "Confíen en el proceso"
 >
->                           Sherpa Fer.
+>                                   Sherpa Fer.
 
 Ahora estamos empezando el tercer curso y el momento de conocer el datacenter en Querétaro se acerca❗
 
