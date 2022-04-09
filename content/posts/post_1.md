@@ -36,4 +36,8 @@ Durante todo el proceso de LaunchX he aprendido diferentes tecnologías. A conti
 
 ## ¿Cómo ha influido LaunchX en mi vida?
 
+LaunchX me abrió una perspectiva diferente de las *Tecnologías de la Información*. Desconocía cómo es que la gente podía poner lo que querían en una pantalla. Me abrió las puertas a un mundo nuevo en el cual se podía hablar con la computadora en <a href="" target="blank">alto nivel</a>, en el cuál era intuitivo comunicarse con un montón de circuitos.
+
+Siempre quise dedicarme a algo que me permitiera estar a la vanguardia y ser versátil. Para mi sorpresa, conocer la programación fue un cambio de paradigma muy significativo. La programación nos permite automatizar tareas; desde cálculos hasta enviar correos. Hoy mi pensamiento ha cambiado y creo fielmente que todas las personas deberían aprender a programar. De conocer más a fondo la herramienta que utilizamos día a día; la computadora.
+
 ## Gracias LaunchX
